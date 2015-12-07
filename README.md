@@ -7,12 +7,15 @@
 
 `python app.py {出発駅} {到着駅} {モード} {日時指定}`
 
-モード d: 出発時刻指定
+モード
 
-       a: 到着時刻指定
+d:  出発時刻指定
+
+a:  到着時刻指定
        
 日時指定
-  year/month/day/hour/minute
+
+year/month/day/hour/minute
   
 
 
